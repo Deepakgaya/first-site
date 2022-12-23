@@ -1,0 +1,16 @@
+body {
+    background-color: #b4eae6;
+    }
+   hr{
+     border-style: none;
+     border-top-style: dashed;
+     border-color: rgb(20, 18, 18);
+     border: width 20px; ;
+     width: 5%;
+   }
+h1{
+  color: #194e7d;
+}
+h3{
+  color: #17b47a;;
+}
